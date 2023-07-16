@@ -1,0 +1,4 @@
+artifact_location: file:///home/baivab/Desktop/mlflow_new/mlflow_wt/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: mlflow_server_new
