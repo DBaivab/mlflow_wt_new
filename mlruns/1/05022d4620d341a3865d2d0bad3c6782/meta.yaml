@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/05022d4620d341a3865d2d0bad3c6782/artifacts
+end_time: 1656923522499
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 05022d4620d341a3865d2d0bad3c6782
+run_uuid: 05022d4620d341a3865d2d0bad3c6782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656923518547
+status: 3
+tags: []
+user_id: baivab
