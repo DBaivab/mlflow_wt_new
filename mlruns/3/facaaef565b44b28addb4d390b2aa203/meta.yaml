@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baivab/Desktop/mlflow_new/mlflow_wt/mlruns/3/facaaef565b44b28addb4d390b2aa203/artifacts
+end_time: 1689504009369
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: facaaef565b44b28addb4d390b2aa203
+run_uuid: facaaef565b44b28addb4d390b2aa203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689504009283
+status: 3
+tags: []
+user_id: baivab
